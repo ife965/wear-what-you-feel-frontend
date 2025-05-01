@@ -14,7 +14,7 @@ const Collection = () => {
     // State to hold the filtered products based on applied filters
     const [filterProducts, setFilterProducts] = useState([]);
 
-    // State to track selected categories for filtering
+   
     const [category, setCategory] = useState([]);
 
     // State to track selected subcategories for filtering
