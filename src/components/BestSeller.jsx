@@ -17,8 +17,8 @@ const BestSeller = () => {
             <div className="text-center text-3xl py-8">
                 {/* Title component to display the section title */}
                 <Title text1={"BEST "} text2={" SELLERS"} />
-                <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab molestiae corrupti accusamus maxime earum!
+                <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-black">
+                    The pieces everyone’s talking about — refined, versatile, and made to move with you. Where comfort meets confidence, and style becomes second nature.
                 </p>
             </div>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 gap-y-6">

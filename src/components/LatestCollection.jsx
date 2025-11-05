@@ -18,8 +18,8 @@ const LatestCollection = () => {
             <div className="text-center py-8 text-3xl">
                 {/* Title component to display the section title */}
                 <Title text1={'LATEST'} text2={' COLLECTION'} />
-                <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea cupiditate enim, libero repellendus ut nesciunt.
+                <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-black">
+                   Effortless pieces that let your style speak louder than words. Because what you wear should feel as good as who you are, fluid, confident, and unapologetically. Every stitch, texture, and tone is designed to move with your mood and celebrate individuality beyond labels
                 </p>
             </div>
             {/* Rendering the latest products in a responsive grid layout */}

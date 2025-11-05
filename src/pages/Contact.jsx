@@ -20,16 +20,16 @@ const Contact = () => {
 
         {/* Store and Career Information */}
         <div className="flex flex-col justify-center items-start gap-6">
-          <p className="font-semibold text-xl text-gray-600">Our Store</p>
+          <p className="font-semibold text-xl text-gray-700">Our Store</p>
           <p className="text-gray-500">
-            15, Surma Market <br /> VIP Road, Taltola, Sylhet
+            156A, Oregun Ikeja Lagos, <br /> Alusa Road, Kebbi Street, Barracks
           </p>
           <p className="text-gray-500">
-            Tel: +8801915443170 <br /> Email: hi@hello.com
+            Tel: +2349082341106 <br /> Email: Abisoyeife@gmail.com
           </p>
 
           {/* Career Information */}
-          <p className="font-semibold text-xl text-gray-500">Careers at Forever</p>
+          <p className="font-semibold text-xl text-gray-700">Careers at Wear What You Feel</p>
           <p className="text-gray-500">Learn more about our teams job openings.</p>
           <button className="border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500">
             Explore Jobs
