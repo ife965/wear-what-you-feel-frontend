@@ -65,8 +65,8 @@ const Footer = () => {
         <div className="flex flex-col items-center lg:items-start text-center lg:text-left">
           <p className="text-lg font-semibold mb-4">Get in Touch</p>
           <ul className="space-y-2 text-gray-700">
-            <li>+234 908 234 1106</li>
-            <li>AbisoyeIfe@gmail.com</li>
+            <li>+1 (647) 404-5142</li>
+            <li>Abiolaayubsalam07@gmail.com</li>
             <li>Lagos, Nigeria</li>
           </ul>
         </div>
